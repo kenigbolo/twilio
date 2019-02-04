@@ -16,7 +16,7 @@
   "dependencies": {
     "deprecate": "^0.1.0",
     "jsonwebtoken": "5.4.x",
-    "q": "0.9.7",
+    "q": "1.5.1",
     "request": "2.88.x",
     "scmp": "2.0.0",
     "string.prototype.startswith": "^0.2.0",
