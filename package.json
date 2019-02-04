@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "express": "3.x",
-    "jasmine-node": "2.0.0"
+    "jasmine-node": "2.0.1"
   },
   "scripts": {
     "test": "jasmine-node --captureExceptions spec"
