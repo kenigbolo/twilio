@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "deprecate": "^0.1.0",
-    "jsonwebtoken": "5.4.x",
+    "jsonwebtoken": "8.4.x",
     "q": "1.5.1",
     "request": "2.88.x",
     "scmp": "2.0.0",
