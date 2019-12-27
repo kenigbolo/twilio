@@ -18,7 +18,7 @@
     "jsonwebtoken": "8.5.x",
     "q": "1.5.1",
     "request": "2.88.x",
-    "scmp": "2.0.0",
+    "scmp": "2.1.0",
     "string.prototype.startswith": "^0.2.0",
     "underscore": "1.x"
   },
