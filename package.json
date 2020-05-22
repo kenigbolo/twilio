@@ -19,7 +19,7 @@
     "q": "1.5.1",
     "request": "2.88.x",
     "scmp": "2.1.0",
-    "string.prototype.startswith": "^0.2.0",
+    "string.prototype.startswith": "^1.0.0",
     "underscore": "1.x"
   },
   "devDependencies": {
